@@ -5,7 +5,7 @@
       "yamuna"
     ],
     "description": "This is a portfolio built just for Chicago Digital ;)",
-    "main": "app.js",
+    "main": "new.php",
     "license": "MIT",
     "ignore": [
       "**/.*",
